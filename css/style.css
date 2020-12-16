@@ -85,6 +85,7 @@ color: rgb(33, 37, 41);
 .nav-main ul li a:hover {
 color: #ea3309;
 }
+.mobile{display: none;}
 
 .header-icon {
 display: flex;
