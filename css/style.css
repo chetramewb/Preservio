@@ -55,12 +55,14 @@ flex-wrap: wrap;
 justify-content: space-between;
 }
 
+
 .logo img {
 width: 100%;
 max-width: 250px;
 }
 .nav-main {
 display: flex;
+align-items: center;
 }
 .nav-main .nav-header {
 display: flex;
