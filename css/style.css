@@ -29,8 +29,10 @@ text-align: center;
 padding: 10px 0px;
 }
 .announcebar p {
-font-size:12px;
-margin-bottom: 0px;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 26px;
+	letter-spacing: 1px;
 }
 
 
